@@ -25,7 +25,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:text="@string/randomNumber_text"
+            android:text="@string/random_number_text"
             android:textSize="@dimen/number_text_size"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"

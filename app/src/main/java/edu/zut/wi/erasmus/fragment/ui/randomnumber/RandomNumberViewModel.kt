@@ -10,7 +10,7 @@ import kotlin.random.Random
 class RandomNumberViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is home Fragment"
+        value = "Click Button to Randomize number"
     }
     var text: LiveData<String> = _text
 

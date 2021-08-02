@@ -17,9 +17,9 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
         <item
-            android:id="@+id/nav_randomnumber"
+            android:id="@+id/nav_random_number"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_rundomnumber" />
+            android:title="@string/menu_random_number" />
 
     </group>
 </menu>

@@ -10,8 +10,8 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_rundomnumber">Rnadom Number</string>
+    <string name="menu_random_number">Random Number</string>
 
-    <string name="randomNumber_text">0</string>
+    <string name="random_number_text">0</string>
     <string name="random_button">Random</string>
 </resources>

@@ -24,9 +24,9 @@
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
-        android:id="@+id/nav_randomnumber"
+        android:id="@+id/nav_random_number"
         android:name="edu.zut.wi.erasmus.fragment.ui.randomnumber.RandomNumberFragment"
-        android:label="@string/menu_rundomnumber"
+        android:label="@string/menu_random_number"
         tools:layout="@layout/fragment_randomnumber" />
 
 </navigation>
